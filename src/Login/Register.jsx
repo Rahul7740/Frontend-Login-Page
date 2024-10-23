@@ -37,7 +37,7 @@ function Register() {
               <input
                 type="text"
                 className="delivery-a-inputs"
-                placeholder="Email/Phone no."
+                placeholder="Email"
               />
               <input
                 type="text"

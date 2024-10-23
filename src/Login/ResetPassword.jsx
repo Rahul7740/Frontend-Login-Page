@@ -17,7 +17,7 @@ function ResetPassword() {
                 account, we sent one time password to your (Email or phone).
               </p>
             </div>
-            <input type="text" placeholder="Email/Phone no." className="delivery-a-inputs" />
+            <input type="text" placeholder="Email" className="delivery-a-inputs" />
             <div className="verfy-email-btns">
               <Link to={"/passwordResetOtp"}>
                 <AllButtons

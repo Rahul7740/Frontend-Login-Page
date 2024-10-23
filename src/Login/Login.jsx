@@ -31,7 +31,7 @@ function Login() {
               <input
                 type="text"
                 className="delivery-a-inputs"
-                placeholder="Email/Phone no."
+                placeholder="Email"
               />
               <div className="delivery-a-inputs">
                 <input type="password" placeholder="password" required />
